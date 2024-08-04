@@ -1,0 +1,1 @@
+console.log("Hello I M muslim");
